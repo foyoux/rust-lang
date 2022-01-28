@@ -66,5 +66,9 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket): 专为托管容器而设计的操作系统
 - [https://github.com/seanmonstar/warp](https://github.com/seanmonstar/warp): Web 服务器框架
 - [lemmy](https://github.com/LemmyNet/lemmy):  Lemmy 不仅仅是 reddit 的替代品
-
-
+- [tantivy](https://github.com/quickwit-oss/tantivy): 受 Apache Lucene 启发并用 Rust 编写的全文搜索引擎库
+- [quiche](https://github.com/cloudflare/quiche): QUIC 传输协议和 HTTP/3 的实现
+- [patterns](https://github.com/rust-unofficial/patterns): 本关于 Rust 编程语言中的设计模式和习语的开源书籍
+- [helix](https://github.com/helix-editor/helix): 现代化模态编辑器
+- [RustScan](https://github.com/RustScan/RustScan): 现代的端口扫描器
+- [sled](https://github.com/spacejam/sled): 嵌入式数据（库）
