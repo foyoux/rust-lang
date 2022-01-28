@@ -18,7 +18,7 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [starship](https://github.com/starship/starship): 适用于任何终端的命令提示
 - [meilisearch](https://github.com/meilisearch/): 强大快速的搜索引擎，类似 elasticsearch。[meilisearch-over-elasticsearch](https://blog.meilisearch.com/why-should-you-use-meilisearch-over-elasticsearch/)
 - [servo](https://github.com/servo/servo): 浏览器引擎，[About servo](https://github.com/servo/servo/issues/23261)
-- [fd](https://github.com/topics/rust): `find` 命令的友好替代方案
+- [fd](https://github.com/sharkdp/fd): `find` 命令的友好替代方案
 - [swc](https://github.com/swc-project/swc): JS/TypeScript 编译器。[migrating-from-babel](https://swc.rs/docs/migrating-from-babel)
 - [nushell](https://github.com/nushell/nushell): 新型 shell，对标 bash 等。
 - [exa](https://github.com/ogham/exa): 现代的 `ls` 命令
@@ -102,3 +102,20 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [onefetch](https://github.com/o2sh/onefetch): Rust编写的一款命令行Git信息工具
 - [wgpu](https://github.com/gfx-rs/wgpu): Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 - [git-cliff](https://github.com/orhun/git-cliff): 遵循传统提交规范的高度可定制的变更日志生成器
+- [dura](https://github.com/tkellogg/dura): Dura 是一个后台进程，它监视您的 Git 存储库并提交您未提交的更改，而不会影响 HEAD、当前分支或 Git 索引（暂存文件）
+- [materialize](https://github.com/MaterializeInc/materialize): Materialize 是一个用于实时应用程序的流式数据库
+- [mcfly](https://github.com/cantino/mcfly): shell 历史搜索替换为智能搜索引擎
+- [orbtk](https://github.com/redox-os/orbtk): Rust UI 工具包
+- [tensorflow/rust](https://github.com/tensorflow/rust): Rust language bindings for TensorFlow
+- [Toshi](https://github.com/toshi-search/Toshi): A full-text search engine in rust
+- [os_kernel_lab](https://github.com/chyyuu/os_kernel_lab): OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
+- [tock](https://github.com/tock/tock): 用于微控制器的安全嵌入式操作系统
+- [idiomatic-rust](https://github.com/mre/idiomatic-rust): 编写干净、惯用的 Rust 代码的资源
+- [Fyrox](https://github.com/FyroxEngine/Fyrox): 3D and 2D game engine written in Rust
+- [conrod](https://github.com/PistonDevelopers/conrod): An easy-to-use, 2D GUI library written entirely in Rust.
+- [toydb](https://github.com/erikgrinaker/toydb): Distributed SQL database in Rust, written as a learning project
+- [stdweb](https://github.com/koute/stdweb): A standard library for the client-side Web
+- [wezterm](https://github.com/wez/wezterm): 用 Rust 实现 的 GPU 加速跨平台终端仿真器和多路复用器
+- [databend](https://github.com/datafuselabs/databend): The Open Source Serverless Data Warehouse for Everyone
+- [rustls](https://github.com/rustls/rustls): A modern TLS library in Rust
+- [youki](https://github.com/containers/youki): A container runtime written in Rust
