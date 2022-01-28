@@ -91,3 +91,9 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [juniper](https://github.com/graphql-rust/juniper): GraphQL server library for Rust
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu): Making Rust a first-class language and ecosystem for GPU shaders
 - [gnirehtet](https://github.com/Genymobile/gnirehtet): Gnirehtet 为 Android 提供反向网络共享
+- [espanso](https://github.com/federico-terzi/espanso): 用 Rust 编写的跨平台文本扩展器
+- [rust-blog](https://github.com/pretzelhammer/rust-blog): 面向 Rust 初学者的教育博客文章
+- [piston](https://github.com/PistonDevelopers/piston): 用 Rust 编写的模块化游戏引擎
+- [wasm-pack](https://github.com/rustwasm/wasm-pack): wasm 工具包
+- [pastel](https://github.com/sharkdp/pastel): 用于生成、分析、转换和操作颜色的命令行工具
+- [boringtun](https://github.com/cloudflare/boringtun): Rust 的 [WireGuard](https://www.wireguard.com/) 实现
