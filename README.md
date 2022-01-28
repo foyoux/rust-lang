@@ -26,3 +26,6 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [appflowy](https://github.com/AppFlowy-IO/appflowy): Notion 的开源替代品
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden): Rust编写的非官方Bitwarden服务器
 - [redox](https://github.com/redox-os/redox): 一个rust编写的操作系统，号称功能齐全
+- [actix-web](https://github.com/actix/actix-web): 强大快速的Web框架
+- [iced](https://github.com/iced-rs/iced): 开平台的 Rust GUI 库 
+- [sonic](https://github.com/valeriansaliou/sonic): 快速轻量的搜索后端，可在几MB的内存中运行 Elasticsearch 的替代方案
