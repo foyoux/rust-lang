@@ -5,7 +5,7 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 
 [官网](https://www.rust-lang.org/zh-CN/) | [官方仓库](https://github.com/rust-lang)
 
-- 书籍推荐：[《Rust权威指南》](https://weread.qq.com/web/reader/d733256071eeeed9d7322fd)
+- 书籍推荐：[《Rust权威指南》](https://weread.qq.com/web/reader/d733256071eeeed9d7322fd)，[配套代码](https://github.com/rust-lang/book)
 - 杨旭老师配套视频：[https://www.bilibili.com/video/BV1hp4y1k7SV](https://www.bilibili.com/video/BV1hp4y1k7SV)
 
 ## 流行的Rust项目
@@ -29,3 +29,28 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [actix-web](https://github.com/actix/actix-web): 强大快速的Web框架
 - [iced](https://github.com/iced-rs/iced): 开平台的 Rust GUI 库 
 - [sonic](https://github.com/valeriansaliou/sonic): 快速轻量的搜索后端，可在几MB的内存中运行 Elasticsearch 的替代方案
+- [delta](https://github.com/dandavison/delta): 用于 git、diff 和 grep 输出的语法高亮分页器
+- [wasmer](https://github.com/wasmerio/wasmer): WebAssembly 运行时
+- [tikv](https://github.com/tikv/tikv): 分布式事务键值数据库
+- [RustPython](https://github.com/RustPython/RustPython): Rust重写的Python解释器
+- [navi](https://github.com/denisidoro/navi): 命令行交互式工具，搜索命令，命令提示。挺有意思
+- [hyperfine](https://github.com/sharkdp/hyperfine): 基于命令行的基准测试工具
+- [ip2region](https://github.com/lionsoul2014/ip2region): IP本地数据库
+- [coreutils](https://github.com/uutils/coreutils): Rust 重写的 GNU coreutils
+- [ruffle](https://github.com/ruffle-rs/ruffle): 用 Rust 编写的 Flash Player 模拟器
+- [hyper](https://github.com/hyperium/hyper): HTTP 库
+- [TabNine](https://github.com/codota/TabNine): 人工智能代码提示（完成）
+- [gdbgui](https://github.com/cs01/gdbgui): 基于浏览器的 gdb 前端
+- [blog_os](https://github.com/phil-opp/blog_os): 用 Rust 写操作系统
+- [awesomo](https://github.com/lk-geimfari/awesomo): 各种语言的开源项目
+- [zola](https://github.com/getzola/zola): 静态站点生成器
+- [xsv](https://github.com/BurntSushi/): CSV 命令行工具包
+- [diesel](https://github.com/diesel-rs/diesel): ORM 查询构建器
+- [amethyst](https://github.com/amethyst/amethyst): 游戏引擎
+- [clap](https://github.com/clap-rs/clap): 功能齐全、快速的 Rust 命令行参数解析器
+- [rust-learning](https://github.com/ctjhoa/rust-learning): rust 学习资源
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials): 学习用Rust编写嵌入式操作系统
+- [gitui](https://github.com/extrawurst/gitui): git 的终端 UI 工具 
+
+
+
