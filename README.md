@@ -72,3 +72,22 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [helix](https://github.com/helix-editor/helix): 现代化模态编辑器
 - [RustScan](https://github.com/RustScan/RustScan): 现代的端口扫描器
 - [sled](https://github.com/spacejam/sled): 嵌入式数据（库）
+- [ffsend](https://github.com/timvisee/ffsend): 从命令行轻松安全地共享文件，功能齐全的 Firefox Send 客户端
+- [pyo3](https://github.com/PyO3/pyo3): Python 解释器的 Rust 绑定
+- [sqlx](https://github.com/launchbadge/sqlx): SQL 工具包
+- [polkadot](https://github.com/paritytech/polkadot): Polkadot Node Implementation
+- [zoxide](https://github.com/ajeetdsouza/zoxide): 适合各种 shell 的智能 `cd` 命令
+- [serde](https://github.com/serde-rs/serde): Rust 的序列化框架
+- [reqwest](https://github.com/seanmonstar/reqwest): 简单强大的 Rust HTTP 客户端
+- [grex](https://github.com/pemistahl/grex): 用于从用户提供的测试用例（输入）生成正则表达式的命令行工具和库
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust): 算法实现
+- [azul](https://github.com/fschutt/azul): 桌面 GUI 框架
+- [grin](https://github.com/mimblewimble/grin): Mimblewimble 协议的实现
+- [wasm-bindge](https://github.com/rustwasm/wasm-bindgen): Wasm 模块和 JavaScript 之间的高级交互
+- [mio](https://github.com/tokio-rs/mio): Rust 的 Metal IO 库
+- [tonic](https://github.com/hyperium/tonic): gRPC的 rust 实现
+- [polars](https://github.com/pola-rs/polars): Fast multi-threaded DataFrame library in Rust | Python | Node.js
+- [crossbeam](https://github.com/crossbeam-rs/crossbeam): Rust 中的并发编程工具
+- [juniper](https://github.com/graphql-rust/juniper): GraphQL server library for Rust
+- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu): Making Rust a first-class language and ecosystem for GPU shaders
+- [gnirehtet](https://github.com/Genymobile/gnirehtet): Gnirehtet 为 Android 提供反向网络共享
