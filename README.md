@@ -15,4 +15,5 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [Bat](https://github.com/sharkdp/bat): 强大漂亮的 `cat`，支持语言高亮
 - [Tauri](https://github.com/tauri-apps/tauri): 基于Web前端的跨平台桌面程序框架，类似 electron。[tauri-vs-electron](https://githubhelp.com/Fournux/tauri-vs-electron)
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust): rust 代码和资源
-- 
+- [Starship](https://github.com/starship/starship): 适用于任何终端的命令提示
+- [Meilisearch](https://github.com/meilisearch/): 强大快速的搜索引擎，类似 elasticsearch。[meilisearch-over-elasticsearch](https://blog.meilisearch.com/why-should-you-use-meilisearch-over-elasticsearch/)
