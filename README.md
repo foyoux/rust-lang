@@ -51,6 +51,20 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [rust-learning](https://github.com/ctjhoa/rust-learning): rust 学习资源
 - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials): 学习用Rust编写嵌入式操作系统
 - [gitui](https://github.com/extrawurst/gitui): git 的终端 UI 工具 
-
+- [rust-clippy](https://github.com/rust-lang/rust-clippy): Rust Lints
+- [lsd](https://github.com/Peltoche/lsd): `ls` 命令替代方案
+- [egui](https://github.com/emilk/egui): 纯 Rust GUI 框架
+- [citybound](https://github.com/citybound/citybound): 开源城市游戏
+- [wasmtime](https://github.com/bytecodealliance/wasmtime):  WebAssembly 的独立运行时
+- [hexyl](https://github.com/sharkdp/hexyl): 命令行16进制查看器
+- [broot](https://github.com/Canop/broot): 查看目录树的新方式
+- [https://github.com/fdehau/tui-rs](https://github.com/fdehau/tui-rs): 终端界面和仪表盘
+- [windows-rs](https://github.com/microsoft/windows-rs): win32 api bindings for Rust
+- [tokei](https://github.com/XAMPPRocky/tokei): 统计代码信息
+- [czkawka](https://github.com/qarmin/czkawka): 文件管理器，查找重复文件 相似图片等
+- [neovide](https://github.com/neovide/neovide): [NeoVim](https://github.com/neovim/neovim) 的简单图形用户界面版
+- [bottlerocket](https://github.com/bottlerocket-os/bottlerocket): 专为托管容器而设计的操作系统
+- [https://github.com/seanmonstar/warp](https://github.com/seanmonstar/warp): Web 服务器框架
+- [lemmy](https://github.com/LemmyNet/lemmy):  Lemmy 不仅仅是 reddit 的替代品
 
 
