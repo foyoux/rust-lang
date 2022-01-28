@@ -97,3 +97,8 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [wasm-pack](https://github.com/rustwasm/wasm-pack): wasm 工具包
 - [pastel](https://github.com/sharkdp/pastel): 用于生成、分析、转换和操作颜色的命令行工具
 - [boringtun](https://github.com/cloudflare/boringtun): Rust 的 [WireGuard](https://www.wireguard.com/) 实现
+- [dog](https://github.com/ogham/dog): 命令行 DNS 客户端
+- [lsp-mode](https://github.com/emacs-lsp/lsp-mode): Emacs client/library for the Language Server Protocol
+- [onefetch](https://github.com/o2sh/onefetch): Rust编写的一款命令行Git信息工具
+- [wgpu](https://github.com/gfx-rs/wgpu): Safe and portable GPU abstraction in Rust, implementing WebGPU API.
+- [git-cliff](https://github.com/orhun/git-cliff): 遵循传统提交规范的高度可定制的变更日志生成器
