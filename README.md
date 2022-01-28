@@ -19,7 +19,7 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [meilisearch](https://github.com/meilisearch/): 强大快速的搜索引擎，类似 elasticsearch。[meilisearch-over-elasticsearch](https://blog.meilisearch.com/why-should-you-use-meilisearch-over-elasticsearch/)
 - [servo](https://github.com/servo/servo): 浏览器引擎，[About servo](https://github.com/servo/servo/issues/23261)
 - [fd](https://github.com/topics/rust): `find` 命令的友好替代方案
-- [swc](https://github.com/swc-project/swc): JS/TypeScript 编译器。[https://swc.rs/docs/migrating-from-babel](https://swc.rs/docs/migrating-from-babel)
+- [swc](https://github.com/swc-project/swc): JS/TypeScript 编译器。[migrating-from-babel](https://swc.rs/docs/migrating-from-babel)
 - [nushell](https://github.com/nushell/nushell): 新型 shell，对标 bash 等。
 - [exa](https://github.com/ogham/exa): 现代的 `ls` 命令
 - [Rocket](https://github.com/SergioBenitez/Rocket): Web 框架
@@ -58,13 +58,13 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [wasmtime](https://github.com/bytecodealliance/wasmtime):  WebAssembly 的独立运行时
 - [hexyl](https://github.com/sharkdp/hexyl): 命令行16进制查看器
 - [broot](https://github.com/Canop/broot): 查看目录树的新方式
-- [https://github.com/fdehau/tui-rs](https://github.com/fdehau/tui-rs): 终端界面和仪表盘
+- [tui-rs](https://github.com/fdehau/tui-rs): 终端界面和仪表盘
 - [windows-rs](https://github.com/microsoft/windows-rs): win32 api bindings for Rust
 - [tokei](https://github.com/XAMPPRocky/tokei): 统计代码信息
 - [czkawka](https://github.com/qarmin/czkawka): 文件管理器，查找重复文件 相似图片等
 - [neovide](https://github.com/neovide/neovide): [NeoVim](https://github.com/neovim/neovim) 的简单图形用户界面版
 - [bottlerocket](https://github.com/bottlerocket-os/bottlerocket): 专为托管容器而设计的操作系统
-- [https://github.com/seanmonstar/warp](https://github.com/seanmonstar/warp): Web 服务器框架
+- [warp](https://github.com/seanmonstar/warp): Web 服务器框架
 - [lemmy](https://github.com/LemmyNet/lemmy):  Lemmy 不仅仅是 reddit 的替代品
 - [tantivy](https://github.com/quickwit-oss/tantivy): 受 Apache Lucene 启发并用 Rust 编写的全文搜索引擎库
 - [quiche](https://github.com/cloudflare/quiche): QUIC 传输协议和 HTTP/3 的实现
