@@ -119,3 +119,28 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [databend](https://github.com/datafuselabs/databend): The Open Source Serverless Data Warehouse for Everyone
 - [rustls](https://github.com/rustls/rustls): A modern TLS library in Rust
 - [youki](https://github.com/containers/youki): A container runtime written in Rust
+- [ggez](https://github.com/ggez/ggez): Rust library to create a Good Game Easily
+- [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists): 检查电子邮件地址是否存在，而不发送电子邮件
+- [rust-course](https://github.com/sunface/rust-course): rust-course
+- [fselect](https://github.com/jhspetersson/fselect): Find files with SQL-like queries
+- [seed](https://github.com/seed-rs/seed): A Rust framework for creating web apps
+- [async-std](https://github.com/async-rs/async-std): Async version of the Rust standard library
+- [rustler](https://github.com/rusterlium/rustler): Safe Rust bridge for creating Erlang NIF functions
+- [skim](https://github.com/lotabout/skim): Fuzzy Finder in rust!
+- [vulkano](https://github.com/vulkano-rs/vulkano): Safe and rich Rust wrapper around the Vulkan API
+- [amp](https://github.com/jmacdonald/amp): A complete text editor for your terminal
+- [transform](https://github.com/ritz078/transform): A polyglot web converter
+- [rust-algorithms](https://github.com/EbTech/rust-algorithms): Common data structures and algorithms in Rust
+- [min-sized-rust](https://github.com/johnthagen/min-sized-rust): 🦀 How to minimize Rust binary size 📦
+- [kerla](https://github.com/nuta/kerla): A new operating system kernel with Linux binary compatibility written in Rust.
+- [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison): A comparison of some web frameworks and libs written in Rust
+- [sixtyfps](https://github.com/sixtyfpsui/sixtyfps): SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. 
+- [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust): Curated list of resources for Embedded and Low-level development in the Rust programming language
+- [TFS](https://github.com/redox-os/tfs): TFS: Next-generation file system
+- [sd](https://github.com/chmln/sd): Intuitive find & replace CLI (sed alternative)
+- [pest](https://github.com/pest-parser/pest): The Elegant Parser(优雅的解析器)
+- [librespot](https://github.com/librespot-org/librespot): Open Source Spotify client library
+- [orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+- [watchexec](https://github.com/watchexec/watchexec): Executes commands in response to file modifications
+
+
