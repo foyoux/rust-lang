@@ -142,5 +142,8 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [librespot](https://github.com/librespot-org/librespot): Open Source Spotify client library
 - [orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [watchexec](https://github.com/watchexec/watchexec): Executes commands in response to file modifications
-
+- [glium](https://github.com/glium/glium): Safe OpenGL wrapper for the Rust language.
+- [wrangler](https://github.com/cloudflare/wrangler): 🤠 wrangle your Cloudflare Workers
+- [weld](https://github.com/weld-project/weld): High-performance runtime for data analytics applications
+- [cursive](https://github.com/gyscos/cursive): A Text User Interface library for the Rust programming language
 
