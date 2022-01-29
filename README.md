@@ -145,5 +145,15 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [glium](https://github.com/glium/glium): Safe OpenGL wrapper for the Rust language.
 - [wrangler](https://github.com/cloudflare/wrangler): 🤠 wrangle your Cloudflare Workers
 - [weld](https://github.com/weld-project/weld): High-performance runtime for data analytics applications
-- [cursive](https://github.com/gyscos/cursive): A Text User Interface library for the Rust programming language
-
+- [cursive](https://github.com/gyscos/cursive): A Text User Interface library for the Rust programming language.(文本用户界面)
+- [json](https://github.com/serde-rs/json): Strongly typed JSON library for Rust
+- [ox](https://github.com/curlpipe/ox): An independent Rust text editor that runs in your terminal!
+- [image](https://github.com/image-rs/image): Encoding and decoding images in Rust
+- [cross](https://github.com/cross-rs/cross): “Zero setup” cross compilation and “cross testing” of Rust crates
+- [artichoke](https://github.com/artichoke/artichoke): 💎 Artichoke is a Ruby made with Rust.(Rust 实现的 Ruby)
+- [ring](https://github.com/briansmith/ring): Safe, fast, small crypto using Rust
+- [stacks-blockchain](https://github.com/stacks-network/stacks-blockchain): The Stacks 2.0 blockchain implementation.
+- [krustlet](https://github.com/krustlet/krustlet): Kubernetes Rust Kubelet
+- [xh](https://github.com/ducaale/xh): Friendly and fast tool for sending HTTP requests
+- [procs](https://github.com/dalance/procs): A modern replacement for ps written in Rust.(`ps` 命令的替代)
+- [tectonic](https://github.com/tectonic-typesetting/tectonic): A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.(现代化的 TeX/LaTeX 引擎)
