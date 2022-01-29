@@ -157,3 +157,9 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [xh](https://github.com/ducaale/xh): Friendly and fast tool for sending HTTP requests
 - [procs](https://github.com/dalance/procs): A modern replacement for ps written in Rust.(`ps` 命令的替代)
 - [tectonic](https://github.com/tectonic-typesetting/tectonic): A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.(现代化的 TeX/LaTeX 引擎)
+- [pueue](https://github.com/Nukesor/pueue): 🌠 Manage your shell commands.
+- [sandspiel](https://github.com/MaxBittker/sandspiel): Creative cellular automata browser game
+- [rusoto](https://github.com/rusoto/rusoto): AWS SDK for Rust
+- [gluon](https://github.com/gluon-lang/gluon): A static, type inferred and embeddable language written in Rust.
+- [wasmtime](https://github.com/bytecodealliance/wasmtime): Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [dijo](https://github.com/nerdypepper/dijo): scriptable, curses-based, digital habit tracker
