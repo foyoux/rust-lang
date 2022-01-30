@@ -163,3 +163,32 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [gluon](https://github.com/gluon-lang/gluon): A static, type inferred and embeddable language written in Rust.
 - [wasmtime](https://github.com/bytecodealliance/wasmtime): Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [dijo](https://github.com/nerdypepper/dijo): scriptable, curses-based, digital habit tracker
+- [QR-Code-generator](https://github.com/nayuki/QR-Code-generator): High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C. 多种语言绑定的二维码生成库
+- [cheats.rs](https://github.com/ralfbiedert/cheats.rs): Rust Language Cheat Sheet. Rust 语言备忘录
+- [libreddit](https://github.com/spikecodes/libreddit): Private front-end for Reddit
+- [bastion](https://github.com/bastion-rs/bastion): Highly-available Distributed Fault-tolerant Runtime
+- [dioxus](https://github.com/DioxusLabs/dioxus): Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+- [rathole](https://github.com/rapiz1/rathole): A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [habitat](https://github.com/habitat-sh/habitat): Modern applications with built-in automation
+- [glad](https://github.com/Dav1dde/glad): Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+- [winit](https://github.com/rust-windowing/winit): Window handling library in pure Rust
+- [arrow-datafusion](https://github.com/apache/arrow-datafusion): Apache Arrow DataFusion and Ballista query engines
+- [dnsguide](https://github.com/EmilHernvall/dnsguide): A guide to writing a DNS Server from scratch in Rust
+- [topgrade](https://github.com/r-darwish/topgrade): Upgrade everything for Rust
+- [feroxbuster](https://github.com/epi052/feroxbuster): A fast, simple, recursive content discovery tool written in Rust.
+- [gcsf](https://github.com/harababurel/gcsf): a FUSE file system based on Google Drive
+- [angle-grinder](https://github.com/rcoh/angle-grinder): Slice and dice logs on the command line
+- [rbspy](https://github.com/rbspy/rbspy): Sampling CPU profiler for Ruby
+- [smol](https://github.com/smol-rs/smol): A small and fast async runtime for Rust
+- [rCore](https://github.com/rcore-os/rCore): Rust version of THU uCore OS. Linux compatible.
+- [criterion.rs](https://github.com/bheisler/criterion.rs): Statistics-driven benchmarking library for Rust
+- [trust-dns](https://github.com/bluejekyll/trust-dns): A Rust based DNS client, server, and resolver
+- [serenity](https://github.com/serenity-rs/serenity): A Rust library for the Discord API.
+- [regex](https://github.com/rust-lang/regex): Rust 正则表达式库
+- [cargo-edit](https://github.com/killercup/cargo-edit): A utility for managing cargo dependencies from the command line.
+- [lunatic](https://github.com/lunatic-solutions/lunatic): Lunatic is an Erlang-inspired runtime for WebAssembly
+- [c2rust](https://github.com/immunant/c2rust): Migrate C code to Rust
+- [stork](https://github.com/jameslittle230/stork): 🔎 Impossibly fast web search, made for static sites.
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p): The Rust Implementation of the libp2p networking stack.
+- 
+- 
