@@ -190,5 +190,23 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [c2rust](https://github.com/immunant/c2rust): Migrate C code to Rust
 - [stork](https://github.com/jameslittle230/stork): 🔎 Impossibly fast web search, made for static sites.
 - [rust-libp2p](https://github.com/libp2p/rust-libp2p): The Rust Implementation of the libp2p networking stack.
-- 
-- 
+- [OpenSK](https://github.com/google/OpenSK): OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+- [actix/examples](https://github.com/actix/examples): Community showcase and examples of Actix ecosystem usage.
+- [tracing](https://github.com/tokio-rs/tracing): Application level tracing for Rust.
+- [hora](https://github.com/hora-search/hora): 🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .(搜索算法库)
+- [cloudhead/rx](https://github.com/cloudhead/rx): 👾 Modern and minimalist pixel editor
+- [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux): Adding support for the Rust language to the Linux kernel.
+- [godot-rust](https://github.com/godot-rust/godot-rust): Rust bindings for GDNative
+- [osohq/oso](https://github.com/osohq/oso): Oso is a batteries-included framework for building authorization in your application.
+- [rusty_v8](https://github.com/denoland/rusty_v8): V8 javascript bindings for Rust.(Rust 的 V8 引擎 绑定)
+- [ndarray](https://github.com/rust-ndarray/ndarray): ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
+- [async-graphql](https://github.com/async-graphql/async-graphql): A GraphQL server library implemented in Rust
+- [rust-doom](https://github.com/cristicbz/rust-doom): A Doom Renderer written in Rust.
+- [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app): The Mullvad VPN client app for desktop and mobile
+- [rust-cross](https://github.com/japaric/rust-cross): Everything you need to know about cross compiling Rust programs!
+- [dim](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
+- [specs](https://github.com/amethyst/specs): Specs - Parallel ECS
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen): Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
+- [napi-rs](https://github.com/napi-rs/napi-rs): A framework for building compiled Node.js add-ons in Rust via Node-API
+- [lalrpop](https://github.com/lalrpop/lalrpop): LR(1) parser generator for Rust
+- [helix](https://github.com/tildeio/helix)：Native Ruby extensions without fear
