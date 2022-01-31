@@ -247,4 +247,4 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [cargo-watch](https://github.com/watchexec/cargo-watch): Watches over your Cargo project's source.
 - [tokio-rs/console](https://github.com/tokio-rs/console): a debugger for async rust!
 - [RustPrimer](https://github.com/rustcc/RustPrimer): The Rust primer for beginners. We need native English speaker help us modify the translation.
-
+- [petgraph](https://github.com/petgraph/petgraph): Graph data structure library for Rust.
