@@ -220,3 +220,31 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [rustpad](https://github.com/ekzhang/rustpad): Efficient and minimal collaborative code editor, self-hosted, no database required.(编辑器相关)
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs): Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [ron](https://github.com/ron-rs/ron): Rusty Object Notation
+- [pants](https://github.com/pantsbuild/pants): The Pantsbuild developer workflow system
+- [eww](https://github.com/elkowar/eww): ElKowars wacky widgets
+- [rust-protobuf](https://github.com/stepancheg/rust-protobuf): Rust implementation of Google protocol buffers
+- [prost](https://github.com/tokio-rs/prost): PROST! a Protocol Buffers implementation for the Rust Language
+- [dflemstr/rq](https://github.com/dflemstr/rq): Record Query - A tool for doing record analysis and transformation
+- [chrono](https://github.com/chronotope/chrono): Date and time library for Rust
+- [ockam](https://github.com/ockam-network/ockam): End-to-end encryption and mutual authentication for distributed applications.
+- [glommio](https://github.com/DataDog/glommio): Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
+- [silicon](https://github.com/Aloxaf/silicon): Create beautiful image of your source code.(为代码生成漂亮图片)
+- [veloren](https://github.com/veloren/veloren): [Mirror] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World.(一个游戏)
+- [rnote](https://github.com/flxzt/rnote): A simple drawing application to create handwritten notes.(一个绘图笔记工具)
+- [38/plotters](https://github.com/38/plotters): A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀(绘图库)
+- [tinysearch](https://github.com/tinysearch/tinysearch): 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
+- [vagga](https://github.com/tailhook/vagga): Vagga is a containerization tool without daemons
+- [tower](https://github.com/tower-rs/tower): async fn(Request) -> Result<Response, Error>
+- [kanban-app](https://github.com/huytd/kanban-app): Kanban board built with Rust and Elm
+- [gobang](https://github.com/TaKO8Ki/gobang): A cross-platform TUI database management tool written in Rust
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus): Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management.
+- [nix-rust/nix](https://github.com/nix-rust/nix): Rust friendly bindings to *nix APIs
+- [webrtc](https://github.com/webrtc-rs/webrtc): A pure Rust implementation of WebRTC
+- [termion](https://github.com/redox-os/termion): Termion is a pure Rust, bindless library for low-level handling, manipulating and reading information about terminals. This provides a full-featured alternative to Termbox.
+- [Plume](https://github.com/Plume-org/Plume): Federated blogging application, thanks to ActivityPub
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu): Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more
+- [stretch](https://github.com/vislyhq/stretch): High performance flexbox implementation written in rust
+- [cargo-watch](https://github.com/watchexec/cargo-watch): Watches over your Cargo project's source.
+- [tokio-rs/console](https://github.com/tokio-rs/console): a debugger for async rust!
+- [RustPrimer](https://github.com/rustcc/RustPrimer): The Rust primer for beginners. We need native English speaker help us modify the translation.
+
