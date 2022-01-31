@@ -210,3 +210,13 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [napi-rs](https://github.com/napi-rs/napi-rs): A framework for building compiled Node.js add-ons in Rust via Node-API
 - [lalrpop](https://github.com/lalrpop/lalrpop): LR(1) parser generator for Rust
 - [helix](https://github.com/tildeio/helix)：Native Ruby extensions without fear
+- [tarpc](https://github.com/google/tarpc): An RPC framework for Rust with a focus on ease of use.
+- [tealdeer](https://github.com/dbrgn/tealdeer): A very fast implementation of tldr in Rust.
+- [gotham](https://github.com/gotham-rs/gotham): A flexible web framework that promotes stability, safety, security and speed.
+- [Weylus](https://github.com/H-M-H/Weylus): Use your tablet as graphic tablet/touch screen on your computer.
+- [quinn](https://github.com/quinn-rs/quinn): Async-friendly QUIC implementation in Rust
+- [raft-rs](https://github.com/tikv/raft-rs): Raft distributed consensus algorithm implemented in Rust.
+- [webapp.rs](https://github.com/saschagrunert/webapp.rs): A web application completely written in Rust. 🌍
+- [rustpad](https://github.com/ekzhang/rustpad): Efficient and minimal collaborative code editor, self-hosted, no database required.(编辑器相关)
+- [flutter-rs](https://github.com/flutter-rs/flutter-rs): Build beautiful desktop apps with flutter and rust. 🌠 (wip)
+- [ron](https://github.com/ron-rs/ron): Rusty Object Notation
