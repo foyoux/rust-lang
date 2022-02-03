@@ -326,6 +326,96 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [rbatis](https://github.com/rbatis/rbatis): Rust High Performance compile-time ORM(BSON2 based)
 - [tract](https://github.com/sonos/tract): Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 - [macroquad](https://github.com/not-fl3/macroquad): Cross-platform game engine in Rust.
-
-
-
+- [quickwit](https://github.com/quickwit-oss/quickwit): Quickwit is a fast and cost-efficient distributed search engine for large-scale, immutable data.
+- [kube-rs](https://github.com/kube-rs/kube-rs): Rust Kubernetes client and controller runtime
+- [Tickeys](https://github.com/yingDev/Tickeys): Instant audio feedback for typing. macOS version. (Rust)
+- [maud](https://github.com/lambda-fairy/maud): 📝 Compile-time HTML templates for Rust
+- [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms): 🎵 Algorithms written in different programming languages - https://zoranpandovski.github.io/al-go-rithms/
+- [afl.rs](https://github.com/rust-fuzz/afl.rs): 🐇 Fuzzing Rust code with American Fuzzy Lop
+- [zemeroth](https://github.com/ozkriff/zemeroth): 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
+- [roapi](https://github.com/roapi/roapi): Create full-fledged APIs for static datasets without writing a single line of code.
+- [calamine](https://github.com/tafia/calamine): A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets
+- [tensorbase](https://github.com/tensorbase/tensorbase): TensorBase is a new big data warehousing with modern efforts.
+- [tangram](https://github.com/tangramdotdev/tangram): Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.
+- [trust](https://github.com/japaric/trust): Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows
+- [rust-csv](https://github.com/BurntSushi/rust-csv): A CSV parser for Rust, with Serde support.
+- [sudo_pair](https://github.com/square/sudo_pair): Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
+- [exonum](https://github.com/exonum/exonum): An extensible open-source framework for creating private/permissioned blockchain applications
+- [librespot](https://github.com/plietar/librespot): Open Source Spotify client library
+- [poem](https://github.com/poem-web/poem): A full-featured and easy-to-use web framework with the Rust programming language.
+- [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization framework for Rust
+- [emacs-ng](https://github.com/emacs-ng/emacs-ng): A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
+- [sn0int](https://github.com/kpcyrd/sn0int): Semi-automatic OSINT framework and package manager
+- [drill](https://github.com/fcsonline/drill): Drill is an HTTP load testing application written in Rust. (HTTP 负载测试)
+- [trunk](https://github.com/thedodd/trunk): Build, bundle & ship your Rust WASM application to the web.
+- [oreboot](https://github.com/oreboot/oreboot): oreboot is a fork of coreboot, with C removed, written in Rust.
+- [cargo-web](https://github.com/koute/cargo-web): A Cargo subcommand for the client-side Web.
+- [diffsitter](https://github.com/afnanenayet/diffsitter): A tree-sitter based AST difftool to get meaningful semantic diffs
+- [rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap): Roadmap to becoming a Rust Web Developer in 2021.(Rust Web 开发人员的路线图)
+- [cobalt.rs](https://github.com/cobalt-org/cobalt.rs): Static site generator written in Rust
+- [google/argh](https://github.com/google/argh): Rust derive-based argument parsing optimized for code size
+- [dprint](https://github.com/dprint/dprint): Pluggable and configurable code formatting platform written in Rust.
+- [google/mundane](https://github.com/google/mundane): Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
+- [this-week-in-rust](https://github.com/rust-lang/this-week-in-rust): Data for this-week-in-rust.org
+- [ZLUDA](https://github.com/vosen/ZLUDA): CUDA on Intel GPUs
+- [rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb): rust wrapper for [rocksdb](http://rocksdb.org/)
+- [holochain](https://github.com/holochain/holochain): The new, performant, and simplified version of Holochain on Rust (sometimes called Holochain RSM for Refactored State Model)
+- [tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes): 《Rust编程之道》随书源码
+- [rustwasm/gloo](https://github.com/rustwasm/gloo): A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
+- [gameboy](https://github.com/mohanson/gameboy): Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.
+- [inkwell](https://github.com/TheDan64/inkwell): It's a New Kind of Wrapper for Exposing LLVM (Safely)
+- [git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool): Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
+- [Xudong-Huang/may](https://github.com/Xudong-Huang/may): rust stackful coroutine library
+- [combine](https://github.com/Marwes/combine): A parser combinator library for Rust
+- [rust-peg](https://github.com/kevinmehall/rust-peg): Parsing Expression Grammar (PEG) parser generator for Rust
+- [pixels](https://github.com/parasyte/pixels): A tiny hardware-accelerated pixel frame buffer. 🦀
+- [teloxide](https://github.com/teloxide/teloxide): 🤖 An elegant Telegram bots framework for Rust
+- [api-guidelines](https://github.com/rust-lang/api-guidelines): Rust API guidelines
+- [notecalc3](https://github.com/bbodi/notecalc3): NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
+- [sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs): Extensible SQL Lexer and Parser for Rust
+- [wslgit](https://github.com/andy-5/wslgit):Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
+- [rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide): A guide to how rustc works and how to contribute to it.
+- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack): Rust projects here are easy to use. There are blog posts for them also.
+- [incubator-teaclave-sgx-sdk](https://github.com/apache/incubator-teaclave-sgx-sdk): Apache Teaclave (incubating) SGX SDK helps developers to write Intel SGX applications in the Rust programming language, and also known as Rust SGX SDK.
+- [learning-rust/site](https://github.com/learning-rust/site): 🎓 Rust Programming Language Tutorials for Everyone!
+- [insta](https://github.com/mitsuhiko/insta): A snapshot testing library for rust
+- [lettre](https://github.com/lettre/lettre): a mailer library for Rust
+- [kalker](https://github.com/PaddiM8/kalker): Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
+- [rust-ipfs](https://github.com/rs-ipfs/rust-ipfs): The InterPlanetary File System (IPFS), implemented in Rust.
+- [ash](https://github.com/MaikKlein/ash): Vulkan bindings for Rust
+- [tabnine-vscode](https://github.com/codota/tabnine-vscode): Visual Studio Code client for Tabnine.
+- [p-e-w/ternimal](https://github.com/p-e-w/ternimal): Simulate a lifeform in the terminal
+- [hyperium/h2](https://github.com/hyperium/h2): HTTP 2.0 client & server implementation for Rust.
+- [rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn): Rust By Example 中文版(包含在线代码编辑器)
+- [Warp](https://github.com/warpdotdev/Warp): Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [ajour](https://github.com/ajour/ajour): A World of Warcraft addon manager written in Rust.
+- [fp-core.rs](https://github.com/JasonShin/fp-core.rs): A library for functional programming in Rust
+- [rust-qt/ritual](https://github.com/rust-qt/ritual): Use C++ libraries from Rust
+- [kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure and fast identity management platform
+- [dap-mode](https://github.com/emacs-lsp/dap-mode): Emacs ❤️ Debug Adapter Protocol
+- [enigma](https://github.com/archseer/enigma): An Erlang VM implementation in Rust
+- [colored](https://github.com/mackwic/colored): (Rust) Coloring terminal so simple you already know how to do it !
+- [MoonZoon](https://github.com/MoonZoon/MoonZoon): Rust Fullstack Framework
+- [rucene](https://github.com/zhihu/rucene): Rust port of Lucene
+- [mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver): The official MongoDB Rust Driver
+- [samtay/so](https://github.com/samtay/so): A terminal interface for Stack Overflow
+- [void-rs/void](https://github.com/void-rs/void): terminal-based personal organizer
+- [indexmap](https://github.com/bluss/indexmap): A hash table with consistent order and fast iteration; access items by key or sequence index
+- [cgmath](https://github.com/rustgd/cgmath): A linear algebra and mathematics library for computer graphics.
+- [goscript](https://github.com/oxfeeefeee/goscript): Go specs implemented as a scripting language in Rust.
+- [sidkshatriya/rd](https://github.com/sidkshatriya/rd): rd is a record/replay debugger written in rust
+- [rodio](https://github.com/RustAudio/rodio): Rust audio playback library
+- [cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz): Command line helpers for fuzzing
+- [RustCrypto/hashes](https://github.com/RustCrypto/hashes): Collection of cryptographic hash functions written in pure Rust
+- [tungstenite-rs](https://github.com/snapview/tungstenite-rs): Lightweight stream-based WebSocket implementation for Rust.
+- [human-panic](https://github.com/rust-cli/human-panic): 😱 Panic messages for humans.
+- [frunk](https://github.com/lloydmeta/frunk): Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
+- [lopdf](https://github.com/J-F-Liu/lopdf): A Rust library for PDF document manipulation.
+- [juice](https://github.com/spearow/juice): The Hacker's Machine Learning Engine
+- [fluvio](https://github.com/infinyon/fluvio): An intelligent end-to-end data streaming platform that combines connectors, distributed streaming and state processing.
+- [hatoo/oha](https://github.com/hatoo/oha): Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [rust-crdt](https://github.com/rust-crdt/rust-crdt): a collection of well-tested, serializable CRDTs for Rust
+- [ureq](https://github.com/algesten/ureq): Minimal request library in rust.
+- [flowistry](https://github.com/willcrichton/flowistry): Flowistry is a VSCode extension that helps you understand Rust programs with program analysis.
+- [coffee](https://github.com/hecrj/coffee): An opinionated 2D game engine for Rust
+- [occlum](https://github.com/occlum/occlum): Occlum is a memory-safe, multi-process library OS for Intel SGX
