@@ -268,3 +268,27 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [linfa](https://github.com/rust-ml/linfa): A Rust machine learning framework.
 - [rediSQL](https://github.com/RedBeardLab/rediSQL): Redis module that provides a completely functional SQL database
 - [grpc-rs](https://github.com/tikv/grpc-rs): The gRPC library for Rust built on C Core library and futures
+- [emu](https://github.com/calebwin/emu): The write-once-run-anywhere GPGPU library for Rust
+- [mesalink](https://github.com/mesalock-linux/mesalink): OpenSSL compatibility layer for the Rust SSL/TLS stack
+- [left-right](https://github.com/jonhoo/left-right): A lock-free, read-optimized, concurrency primitive.
+- [tarpaulin](https://github.com/xd009642/tarpaulin): A code coverage tool for Rust projects
+- [tunnelto](https://github.com/agrinman/tunnelto): Expose your local web server to the internet with a public URL.
+- [bincode](https://github.com/bincode-org/bincode): A binary encoder / decoder implementation in Rust.
+- [tch-rs](https://github.com/LaurentMazare/tch-rs): Rust bindings for the C++ api of PyTorch.
+- [themis](https://github.com/cossacklabs/themis): Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
+- [rust-book-chinese](https://github.com/KaiserY/rust-book-chinese): rust 程序设计语言 中文版
+- [foundry](https://github.com/gakonst/foundry): Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [wasmer-python](https://github.com/wasmerio/wasmer-python): 🐍🕸 WebAssembly runtime for Python
+- [winapi-rs](https://github.com/retep998/winapi-rs): Rust bindings to Windows API
+- [panopticon](https://github.com/das-labor/panopticon): A libre cross-platform disassembler.
+- [viu](https://github.com/atanunq/viu): Simple terminal image viewer written in Rust.
+- [photon](https://github.com/silvia-odwyer/photon): ⚡ Rust/WebAssembly 图像处理库
+- [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy): A purpose-built proxy for the Linkerd service mesh. Written in Rust.
+- [nearcore](https://github.com/near/nearcore): Reference client for NEAR Protocol
+- [comby](https://github.com/comby-tools/comby): A tool for structural code search and replace that supports ~every language.
+- [alexhallam/tv](https://github.com/alexhallam/tv): 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
+- [rusqlite](https://github.com/rusqlite/rusqlite): Ergonomic bindings to SQLite for Rust
+- 
+
+
+
