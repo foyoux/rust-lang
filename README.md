@@ -288,7 +288,44 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [comby](https://github.com/comby-tools/comby): A tool for structural code search and replace that supports ~every language.
 - [alexhallam/tv](https://github.com/alexhallam/tv): 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [rusqlite](https://github.com/rusqlite/rusqlite): Ergonomic bindings to SQLite for Rust
-- 
+- [mdcat](https://github.com/lunaryorn/mdcat): `cat` command for markdown.
+- [cpal](https://github.com/RustAudio/cpal): Cross-platform audio I/O library in pure Rust
+- [autocxx](https://github.com/google/autocxx): Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
+- [LocustDB](https://github.com/cswinter/LocustDB): Massively parallel, high performance analytics database that will rapidly devour all of your data.
+- [scryer-prolog](https://github.com/mthom/scryer-prolog): A modern Prolog implementation written mostly in Rust.
+- [pgx](https://github.com/zombodb/pgx): Build Postgres Extensions with Rust!
+- [indradb](https://github.com/indradb/indradb): A graph database written in rust
+- [black-hat-rust](https://github.com/skerkour/black-hat-rust): Applied offensive security with Rust - https://kerkour.com/black-hat-rust
+- [gccrs](https://github.com/Rust-GCC/gccrs): GCC Front-End for Rust
+- [logos](https://github.com/maciejhirsz/logos): Create ridiculously fast Lexers
+- [vpncloud](https://github.com/dswd/vpncloud): Peer-to-peer VPN
+- [spot](https://github.com/xou816/spot): Native Spotify client for the GNOME desktop
+- [cargo-make](https://github.com/sagiegurari/cargo-make): Rust task runner and build tool.
+- [atm-cli](https://github.com/allthemusicllc/atm-cli): Command line tool for generating and working with MIDI files.
+- [ganja.js](https://github.com/enkimute/ganja.js): 📐 Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals)
+- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter): ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+- [click](https://github.com/databricks/click): The command Line Interactive Controller for Kubernetes
+- [config-rs](https://github.com/mehcode/config-rs): ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
+- [legion](https://github.com/amethyst/legion): High performance Rust ECS library
+- [zboxfs/zbox](https://github.com/zboxfs/zbox): Zero-details, privacy-focused in-app file system.
+- [atuin](https://github.com/ellie/atuin): 🐢 Magical shell history
+- [Qovery/engine](https://github.com/Qovery/engine): The simplest way to deploy your apps on any cloud provider
+- [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB): Immutable Ordered Key-Value Database Engine
+- [gluesql](https://github.com/gluesql/gluesql): GlueSQL is quite sticky, it attaches to anywhere.
+- [book](https://github.com/rustwasm/book): The Rust and WebAssembly Book
+- [native-windows-gui](https://github.com/gabdube/native-windows-gui): A light windows GUI toolkit for rust
+- [str4d/rage](https://github.com/str4d/rage): A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+- [sea-orm](https://github.com/SeaQL/sea-orm): 🐚 An async & dynamic ORM for Rust
+- [citahub/cita](https://github.com/citahub/cita): A high performance blockchain kernel for enterprise users.
+- [bloom](https://github.com/skerkour/bloom): The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
+- [nat](https://github.com/willdoescode/nat): `ls` alternative with useful info and a splash of color 🎨(`ls` 命令替代)
+- [redshirt](https://github.com/tomaka/redshirt): 🧑‍🔬 Operating system
+- [mun](https://github.com/mun-lang/mun): Source code for the Mun language and runtime.(一种编程语言)
+- [flume](https://github.com/zesterer/flume): A safe and fast multi-producer, multi-consumer channel.
+- [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual, extensible, composable logging for Rust
+- [rbatis](https://github.com/rbatis/rbatis): Rust High Performance compile-time ORM(BSON2 based)
+- [tract](https://github.com/sonos/tract): Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+- [macroquad](https://github.com/not-fl3/macroquad): Cross-platform game engine in Rust.
 
 
 
