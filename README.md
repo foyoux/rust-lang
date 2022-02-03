@@ -248,3 +248,23 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [tokio-rs/console](https://github.com/tokio-rs/console): a debugger for async rust!
 - [RustPrimer](https://github.com/rustcc/RustPrimer): The Rust primer for beginners. We need native English speaker help us modify the translation.
 - [petgraph](https://github.com/petgraph/petgraph): Graph data structure library for Rust.
+- [imgui-rs](https://github.com/imgui-rs/imgui-rs): Rust bindings for Dear [ImGui](https://github.com/ocornut/imgui)
+- [itertools](https://github.com/rust-itertools/itertools): Extra iterator adaptors, iterator methods, free functions, and macros.
+- [bayard-search/bayard](https://github.com/bayard-search/bayard): A full-text search and indexing server written in Rust.(全文本搜索和索引服务器)
+- [hematite](https://github.com/PistonDevelopers/hematite): A simple Minecraft written in Rust with the Piston game engine
+- [hello-world.rs](https://github.com/mTvare6/hello-world.rs): 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
+- [glutin](https://github.com/rust-windowing/glutin): A low-level library for OpenGL context creation, written in pure Rust.
+- [himalaya](https://github.com/soywod/himalaya): Command-line interface for email management
+- [libpnet](https://github.com/libpnet/libpnet): Cross-platform, low level networking using the Rust programming language.(用 Rust 编写的跨平台低级网络库)
+- [askama](https://github.com/djc/askama): Type-safe, compiled Jinja-like templates for Rust.(类似 Jinja 的模板)
+- [parcel-css](https://github.com/parcel-bundler/parcel-css): A CSS parser, transformer, and minifier written in Rust.
+- [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis): 🎨 Example-based texture synthesis written in Rust 🦀(纹理合成 库)
+- [nodebook](https://github.com/netgusto/nodebook): Nodebook - Multi-Lang Web REPL + CLI Code runner
+- [anchor](https://github.com/project-serum/anchor): Anchor is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
+- [iota](https://github.com/gchp/iota): 用 Rust 编写的基于终端的文本编辑器
+- [feather](https://github.com/feather-rs/feather): A Minecraft server implementation in Rust
+- [notify](https://github.com/notify-rs/notify): 🔭 Cross-platform filesystem notification library for Rust.
+- [gnvim](https://github.com/vhakulinen/gnvim): GUI for neovim, without any web bloat
+- [linfa](https://github.com/rust-ml/linfa): A Rust machine learning framework.
+- [rediSQL](https://github.com/RedBeardLab/rediSQL): Redis module that provides a completely functional SQL database
+- [grpc-rs](https://github.com/tikv/grpc-rs): The gRPC library for Rust built on C Core library and futures
