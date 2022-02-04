@@ -421,8 +421,14 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 - [occlum](https://github.com/occlum/occlum): Occlum is a memory-safe, multi-process library OS for Intel SGX
 - [luminance-rs](https://github.com/phaazon/luminance-rs): Type-safe, type-level and stateless Rust graphics framework
 - [UnicornConsole](https://github.com/Gigoteur/UnicornConsole): Unicorn Console: create quick game !
-
-
+- [calamine](https://github.com/tafia/calamine): A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets
+- [py2rs](https://github.com/rochacbruno/py2rs): A quick reference guide for the Pythonista in the process of becoming a Rustacean
+- [heapless](https://github.com/japaric/heapless): Heapless, `static` friendly data structures
+- [fantoccini](fantoccini): A high-level API for programmatically interacting with web pages through WebDriver.
+- [ruru](https://github.com/d-unseductable/ruru): Native Ruby extensions written in Rust
+- [headcrab](https://github.com/headcrab-rs/headcrab): A modern Rust debugging library 🦀
+- [sysinfo](https://github.com/GuillaumeGomez/sysinfo): A system handler to get information and interact with processes written in Rust
+- [geo](https://github.com/georust/geo): Geospatial primitives and algorithms for Rust
 
 
 
