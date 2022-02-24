@@ -7,6 +7,7 @@ rust 是一门当下流行的系统编程语言，性能卓越，对标 C/C++，
 
 - 书籍推荐：[《Rust权威指南》](https://weread.qq.com/web/reader/d733256071eeeed9d7322fd)，[配套代码](https://github.com/rust-lang/book)
 - 杨旭老师配套视频：[https://www.bilibili.com/video/BV1hp4y1k7SV](https://www.bilibili.com/video/BV1hp4y1k7SV)
+- 中文文档：[https://rustwiki.org/](https://rustwiki.org/)
 
 ## 流行的Rust项目
 
